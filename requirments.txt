@@ -1,0 +1,18 @@
+# Module 16 Lab: NumPy ile sifirdan perceptron
+# Google Colab'da su surumlerle test edildi:
+# numpy 2.4.6, pandas 2.2.3, h5py 3.14.0, Pillow 11.3.0
+
+numpy
+pandas
+h5py
+matplotlib
+seaborn
+pillow
+scipy
+scikit-learn
+
+# Veri setini Kaggle'dan otomatik indirmek icin (veri elle indirilirse gerekmez)
+kagglehub
+
+# Defteri yerel bilgisayarda acmak icin
+notebook
