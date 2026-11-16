@@ -1,0 +1,31 @@
+# --- Veri seti (Kaggle'dan indirilir, depoya eklenmez) ---
+*.h5
+data/
+datasets/
+catvnoncat/
+
+# --- Defterin urettigi ciktilar (yeniden uretilebilir) ---
+# Grafikleri depoda gostermek isterseniz asagidaki satiri silin.
+outputs_module16_v5/
+Module16_Perceptron_Sonuclar.zip
+*.pkl
+
+# --- Kaggle kimlik bilgisi (asla paylasilmamali) ---
+kaggle.json
+.kaggle/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# --- Isletim sistemi ve editor dosyalari ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
